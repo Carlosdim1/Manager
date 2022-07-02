@@ -1,4 +1,4 @@
-""" Funciones de ayuda """
+""" Funciones de ayuda super util"""
 
 import os
 import platform
